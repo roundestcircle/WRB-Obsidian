@@ -1,0 +1,60 @@
+#Soils
+
+## Key to the Reference Group
+
+Other soils having a *petroduric* or *duric horizon* starting ≤ 100 cm from the mineral soil surface.
+
+Next Soil to check if not DURISOLS:
+
+Primary Qualifiers::
+- [[Petric]]
+- [[Petrogypsic]]
+- [[Gypsic]]
+- [[Petrocalcic]]
+- [[Calcic]]
+- [[Leptic]]
+- [[Acric]]
+- [[Lixic]]
+- [[Alic]]
+- [[Luvic]]
+- [[Cambic]]
+- [[Coarsic]]
+- [[Fractic]]
+- [[Skeletic]]
+- [[Yermic]]
+- [[Takyric]]
+- [[Andic]]
+- [[Gypsiric]]
+- [[Calcaric]]
+- [[Dystric]]
+- [[Eutric]]
+
+Supplementary Qualifiers::
+- [[Arenic]]
+- [[Clayic]]
+- [[Loamic]]
+- [[Siltic]]
+- [[Aeolic]]
+- [[Aric]]
+- [[Biocrustic]]
+- [[Chromic]]
+- [[Cohesive]]
+- [[Epic]]
+- [[Endic]]
+- [[Gleyic]]
+- [[Humic]]
+- [[Ochric]]
+- [[Isopteric]]
+- [[Magnesic]]
+- [[Novic]]
+- [[Pyric]]
+- [[Raptic]]
+- [[Salic]]
+- [[Sideralic]]
+- [[Sodic]]
+- [[Stagnic]]
+- [[Technic]]
+- [[Kalaic]]
+- [[Toxic]]
+- [[Transportic]]
+- [[Vertic]]

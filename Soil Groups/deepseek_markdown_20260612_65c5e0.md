@@ -1,0 +1,61 @@
+#Soils
+
+## Key to the Reference Group
+
+Other soils having an *argic horizon* starting ≤ 100 cm from the mineral soil surface and having *retic properties* at its upper boundary.
+
+Next Soil to check if not RETISOLS:
+
+Primary Qualifiers::
+- [[Abruptic]]
+- [[Fragic]]
+- [[Glossic]]
+- [[Leptic]]
+- [[Plaggic]]
+- [[Pretic]]
+- [[Terric]]
+- [[Histic]]
+- [[Gleyic]]
+- [[Stagnic]]
+- [[Sideralic]]
+- [[Nudiargic]]
+- [[Neocambic]]
+- [[Neobrunic]]
+- [[Albic]]
+- [[Calcic]]
+- [[Skeletal]]
+- [[Endodolomitic]]
+- [[Endocalcaric]]
+- [[Dystric]]
+- [[Eutric]]
+
+Supplementary Qualifiers::
+- [[Arenic]]
+- [[Clayic]]
+- [[Loamic]]
+- [[Siltic]]
+- [[Aric]]
+- [[Cutanic]]
+- [[Densic]]
+- [[Differentic]]
+- [[Drainic]]
+- [[Epic]]
+- [[Endic]]
+- [[Folic]]
+- [[Gelic]]
+- [[Humic]]
+- [[Ochric]]
+- [[Lamellic]]
+- [[Nechic]]
+- [[Novic]]
+- [[Oxyaquic]]
+- [[Profondic]]
+- [[Pyric]]
+- [[Raptic]]
+- [[Solimovic]]
+- [[Protospodic]]
+- [[Technic]]
+- [[Kalaic]]
+- [[Toxic]]
+- [[Transportic]]
+- [[Turbic]]

@@ -1,0 +1,16 @@
+Abbreviation:: rh
+
+Rheic (rh) (from Greek rhein, to flow): having a histic horizon, in which groundwater or flowing water
+ascends to < 20 cm of the soil surface or reaches the histic horizon’s upper half, whichever is shallower
+(in Histosols only).
+Rhodic (ro): (from Greek rhodon, rose): having between 25 and 150 cm of the mineral soil surface a layer,
+≥ 30 cm thick, that shows evidence of soil formation as defined in criterion 3 of the cambic horizon and
+that has, in ≥ 90% of its exposed area, a Munsell colour hue redder than 5YR moist, a value of < 4 moist,
+and a value dry, not more than one unit higher than the moist value.
+Rockic (rk): (from English rock): having organic material starting at the soil surface that directly overlies
+continuous rock or technic hard material (in Histosols only) (1: Epi- and Endo- only; referring to the
+upper limit of the continuous rock or technic hard material).
+Rubic (ru): (from Latin ruber, red): having between 25 and 100 cm of the mineral soil surface a layer,
+≥ 30 cm thick, that does not consist of claric material and that has, in ≥ 90% of its exposed area, a
+Munsell colour hue redder than 10YR and/or a chroma of ≥ 5, both moist (in Arenosols only) (2: except
+Epi-).

@@ -1,0 +1,4 @@
+Abbreviation:: fo
+Subgroups:: [[Skeletofolic]]
+
+Folic (fo) (from Latin folium, leaf): having a folic horizon starting at the soil surface.

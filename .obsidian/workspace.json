@@ -15,13 +15,56 @@
               "state": {
                 "file": "Templates/Soil Group.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Soil Group"
             }
+          },
+          {
+            "id": "861a105153ebfe96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KEY.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "KEY"
+            }
+          },
+          {
+            "id": "8d691f1c00405a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualifiers prelim.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Qualifiers prelim"
+            }
+          },
+          {
+            "id": "be57c394e8a41a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horizons Prelim.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Horizons Prelim"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Soil Group.md",
+                "file": "Diagnostic Properties/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Soil Group"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Soil Group.md",
+                "file": "Diagnostic Properties/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Soil Group"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Soil Group.md",
+                "file": "Diagnostic Properties/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Soil Group"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -184,16 +227,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a91a187fdcbe942",
+  "active": "be57c394e8a41a44",
   "lastOpenFiles": [
-    "Overviews/Overview Qualifiers.md",
-    "Templates/Soil Group.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_5d94bb.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_7e1f21.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_f8189a.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_a054ae.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_4b0b48.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_0b0993.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_5e9152.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_2f7cc3.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_7ff5bb.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_cadf6f.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_d9e875.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_dad8c0.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_534dce.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_f83303.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_6ff0db.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_e4ba0e.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_7d355c.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_c3175e.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_854ab5.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_7698cc.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_337705.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_251f2c.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_568bdd.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_2f8641.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_3ad5e0.md",
+    "Diagnostic Horizons/deepseek_markdown_20260612_cd13d2.md",
     "Templates",
-    "Overviews/Overview Soil Groups.md",
-    "Overviews/Overview Diagnostic Properties.md",
-    "Overviews/Overview Diagnostic Materials.md",
-    "Overviews/Overview Diagnostic Horizons.md",
-    "Diagnostic Horizons/Spodic Horizon.md",
     "Overviews",
     "Qualifiers",
     "Diagnostic Materials",
