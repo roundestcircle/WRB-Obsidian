@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "dc46ec3d91e482eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d38afb59f8f7990e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a91a187fdcbe942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Soil Group.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soil Group"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b39bd1b748807cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1642370d9b35b626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a54c18fb9ac3574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18515c1ec8ffc09e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4446e22812f6ca3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04e0e8921f6ccd43",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ae32838a26faf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a78b6c51a75d74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Soil Group.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Soil Group"
+            }
+          },
+          {
+            "id": "09eb8772cbcb5f01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Soil Group.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Soil Group"
+            }
+          },
+          {
+            "id": "c816ef832592bd05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41a8a1c1b3ca5b05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e6af6d5d0696167",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Soil Group.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Soil Group"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1a91a187fdcbe942",
+  "lastOpenFiles": [
+    "Overviews/Overview Qualifiers.md",
+    "Templates/Soil Group.md",
+    "Templates",
+    "Overviews/Overview Soil Groups.md",
+    "Overviews/Overview Diagnostic Properties.md",
+    "Overviews/Overview Diagnostic Materials.md",
+    "Overviews/Overview Diagnostic Horizons.md",
+    "Diagnostic Horizons/Spodic Horizon.md",
+    "Overviews",
+    "Qualifiers",
+    "Diagnostic Materials",
+    "Soil Groups",
+    "Diagnostic Horizons",
+    "Diagnostic Properties"
+  ]
+}
