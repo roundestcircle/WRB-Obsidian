@@ -4,13 +4,13 @@
 
 Other soils having:
 
-1. one or more layers with *andic* or *vitric properties* with a combined thickness of:
+1. one or more layers with [[Andic Properties]] or [[Vitric Properties]] with a combined thickness of:
    - ≥ 30 cm, within 100 cm of the soil surface and starting ≤ 25 cm from the soil surface; *or*
    - ≥ 60% of the entire thickness of the soil, if a limiting layer starts > 25 and ≤ 50 cm from the soil surface;
    *and*
-2. no *argic*, *ferralic*, *petroplinthic*, *pisoplinthic*, *plinthic* or *spodic horizon* starting ≤ 100 cm of the soil surface, unless buried deeper than 50 cm from the mineral soil surface.
+1. no [[Argic Horizon]], [[Ferralic Horizon]], [[Petroplinthic Horizon]], [[Pisoplinthic Horizon]], [[[Plinthic Horizon]]] or [[Spodic Horizon]] starting ≤ 100 cm of the soil surface, unless buried deeper than 50 cm from the mineral soil surface.
 
-Next Soil to check if not ANDOSOLS: 
+Next Soil to check if not ANDOSOLS: [[Podzols]]
 
 Primary Qualifiers::
 - [[Alaundic]]

@@ -13,58 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Soil Group.md",
+                "file": "Soil Groups/Vertisols.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Soil Group"
+              "title": "Vertisols"
             }
           },
           {
-            "id": "861a105153ebfe96",
+            "id": "7787825f4fbaa7db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KEY.md",
+                "file": "INSTRUCTIONS.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "KEY"
-            }
-          },
-          {
-            "id": "8d691f1c00405a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qualifiers prelim.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Qualifiers prelim"
-            }
-          },
-          {
-            "id": "be57c394e8a41a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horizons Prelim.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Horizons Prelim"
+              "title": "INSTRUCTIONS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,34 +199,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be57c394e8a41a44",
+  "active": "7787825f4fbaa7db",
   "lastOpenFiles": [
-    "Diagnostic Horizons/deepseek_markdown_20260612_5d94bb.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_7e1f21.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_f8189a.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_a054ae.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_4b0b48.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_0b0993.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_5e9152.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_2f7cc3.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_7ff5bb.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_cadf6f.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_d9e875.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_dad8c0.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_534dce.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_f83303.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_6ff0db.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_e4ba0e.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_7d355c.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_c3175e.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_854ab5.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_7698cc.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_337705.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_251f2c.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_568bdd.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_2f8641.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_3ad5e0.md",
-    "Diagnostic Horizons/deepseek_markdown_20260612_cd13d2.md",
+    "Soil Groups/Vertisols.md",
+    "INSTRUCTIONS.md",
+    "Soil Groups/Umbrisols.md",
+    "Soil Groups/Technosols.md",
+    "Soil Groups/Stagnosols.md",
+    "Soil Groups/Solonetz.md",
+    "Soil Groups/Solonchaks.md",
+    "Soil Groups/Retisols.md",
+    "Soil Groups/Regosols.md",
+    "Soil Groups/Podzols.md",
+    "Soil Groups/Plinthosols.md",
+    "Soil Groups/Planosols.md",
+    "Soil Groups/Phaeozems.md",
+    "Soil Groups/Nitisols.md",
+    "Soil Groups/Luvisols.md",
+    "Soil Groups/Lixisols.md",
+    "Soil Groups/Leptosols.md",
+    "Soil Groups/Kastanozems.md",
+    "Soil Groups/Histosols.md",
+    "Soil Groups/Gypsisols.md",
+    "Soil Groups/Gleysols.md",
+    "Soil Groups/Fluvisols.md",
+    "Soil Groups/Ferralsols.md",
+    "Soil Groups/Durisols.md",
+    "Soil Groups/Cryosols.md",
+    "Soil Groups/Chernozems.md",
     "Templates",
     "Overviews",
     "Qualifiers",
