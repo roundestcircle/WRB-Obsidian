@@ -1,0 +1,391 @@
+# TODO: Markdown files checklist
+
+List of all Markdown files in the workspace. Check items as you verify them.
+
+- [x] INSTRUCTIONS.md
+- [x] KEY.md
+- [x] Soil Groups/Vertisols.md
+- [x] Soil Groups/Umbrisols.md
+- [x] Soil Groups/Technosols.md
+- [x] Soil Groups/Stagnosols.md
+- [x] Soil Groups/Solonetz.md
+- [x] Soil Groups/Solonchaks.md
+- [x] Soil Groups/Retisols.md
+- [x] Soil Groups/Regosols.md
+- [x] Soil Groups/Podzols.md
+- [x] Soil Groups/Plinthosols.md
+- [x] Soil Groups/Planosols.md
+- [x] Soil Groups/Phaeozems.md
+- [x] Soil Groups/Nitisols.md
+- [x] Soil Groups/Luvisols.md
+- [x] Soil Groups/Lixisols.md
+- [x] Soil Groups/Leptosols.md
+- [x] Soil Groups/Kastanozems.md
+- [x] Soil Groups/Histosols.md
+- [x] Soil Groups/Gypsisols.md
+- [x] Soil Groups/Gleysols.md
+- [x] Soil Groups/Fluvisols.md
+- [x] Soil Groups/Ferralsols.md
+- [x] Soil Groups/Durisols.md
+- [x] Soil Groups/Cryosols.md
+- [x] Soil Groups/Chernozems.md
+- [x] Soil Groups/Cambisols.md
+- [x] Soil Groups/Calcisols.md
+- [x] Soil Groups/Arenosols.md
+- [x] Soil Groups/Anthrosols.md
+- [x] Soil Groups/Andosols.md
+- [x] Soil Groups/Alisols.md
+- [x] Soil Groups/Acrisols.md
+- [x] Qualifiers/Acric.md
+- [x] Qualifiers/Aceric.md
+- [x] Qualifiers/Abruptic.md
+- [x] Qualifiers/Activic.md
+- [x] Qualifiers/Acroxic.md
+- [x] Qualifiers/Aeolic.md
+- [x] Diagnostic Horizons/Albic Horizon.md
+- [x] Diagnostic Properties/Continuous Rock.md
+- [x] Diagnostic Properties/Anthric Properties.md
+- [x] Diagnostic Properties/Andic Properties.md
+- [x] Diagnostic Properties/Albeluvic glossae.md
+- [x] Diagnostic Properties/Abrupt textural difference.md
+- [x] Diagnostic Properties/Yermic Properties.md
+- [x] Diagnostic Properties/Vitric Properties.md
+- [x] Diagnostic Properties/Takyric Properties.md
+- [x] Diagnostic Properties/Stagnic Properties.md
+- [x] Diagnostic Properties/Sideralic Properties.md
+- [x] Diagnostic Properties/Shrink-Swell Cracks.md
+- [x] Diagnostic Properties/Retic Properties.md
+- [x] Diagnostic Properties/Reducing Conditions.md
+- [x] Diagnostic Properties/Protogypsic Properties.md
+- [x] Diagnostic Properties/Protocalcic Properties.md
+- [x] Diagnostic Properties/Lithic Discontinuity.md
+- [x] Diagnostic Properties/Gleyic Properties.md
+- [x] Overviews/Overview Diagnostic Materials.md
+- [x] Overviews/Overview Diagnostic Horizons.md
+- [x] Overviews/Overview Diagnostic Properties.md
+- [x] Overviews/Overview Qualifiers.md
+- [x] Qualifiers/Anthroumbric.md
+- [x] Qualifiers/Anthromollic.md
+- [x] Qualifiers/Anthric.md
+- [x] Qualifiers/Anthraquic.md
+- [x] Qualifiers/Andic.md
+- [x] Qualifiers/Aluandic.md
+- [x] Qualifiers/Alic.md
+- [x] Qualifiers/Alcalic.md
+- [x] Qualifiers/Albic.md
+- [x] Qualifiers/Akroskeletic.md
+- [x] Qualifiers/Akromineralic.md
+- [x] Qualifiers/Akrofluvic.md
+- [x] Overviews/Overview Soil Groups.md
+- [x] Qualifiers/Biocrustic.md
+- [x] Qualifiers/Arzic.md
+- [x] Qualifiers/Aric.md
+- [x] Qualifiers/Argisodic.md
+- [x] Qualifiers/Areninovic.md
+- [x] Qualifiers/Arenic.md
+- [x] Qualifiers/Archaic.md
+- [x] Qualifiers/Calcic.md
+- [x] Qualifiers/Calcaric.md
+- [x] Qualifiers/Bryic.md
+- [x] Qualifiers/Brunic.md
+- [x] Qualifiers/Cambic.md
+- [x] Qualifiers/Calcifractic.md
+- [x] Qualifiers/Capillaric.md
+- [x] Qualifiers/Carbic.md
+- [x] Diagnostic Horizons/Ferric Horizon.md
+- [x] Diagnostic Horizons/Ferralic Horizon.md
+- [x] Diagnostic Horizons/Duric Horizon.md
+- [x] Diagnostic Horizons/Cryic Horizon.md
+- [x] Diagnostic Horizons/Cohesic Horizon.md
+- [x] Diagnostic Horizons/Chernic Horizon.md
+- [x] Diagnostic Horizons/Cambic Horizon.md
+- [x] Diagnostic Horizons/Calcic Horizon.md
+- [x] Diagnostic Horizons/Argic Horizon.md
+- [x] Diagnostic Horizons/Anthraquic Horizon.md
+- [x] Qualifiers/Carbonatic.md
+- [x] Qualifiers/Carbonic.md
+- [x] Diagnostic Horizons/Hortic Horizon.md
+- [x] Diagnostic Horizons/Histic Horizon.md
+- [x] Diagnostic Horizons/Gypsic Horizon.md
+- [x] Diagnostic Horizons/Fragic Horizon.md
+- [x] Diagnostic Horizons/Folic Horizon.md
+- [x] Diagnostic Horizons/Irragric Horizon.md
+- [x] Diagnostic Horizons/Hydragic Horizon.md
+- [x] Qualifiers/Chernic.md
+- [x] Diagnostic Horizons/Mollic Horizon.md
+- [x] Diagnostic Horizons/Limonic Horizon.md
+- [x] Diagnostic Horizons/Natric Horizon.md
+- [x] Qualifiers/Chloridic.md
+- [x] Qualifiers/Chromic.md
+- [x] Diagnostic Horizons/Petroduric Horizon.md
+- [x] Diagnostic Horizons/Petrocalcic Horizon.md
+- [x] Diagnostic Horizons/Panpaic Horizon.md
+- [x] Diagnostic Horizons/Nitic Horizon.md
+- [x] Diagnostic Horizons/Pisoplinthic Horizon.md
+- [x] Diagnostic Horizons/Petroplinthic Horizon.md
+- [x] Diagnostic Horizons/Petrogypsic Horizon.md
+- [x] Diagnostic Horizons/Plinthic Horizon.md
+- [x] Diagnostic Horizons/Plaggic Horizon.md
+- [x] Diagnostic Horizons/Pretic Horizon.md
+- [x] Qualifiers/Differentic.md
+- [x] Qualifiers/Densic.md
+- [x] Qualifiers/Cutanic.md
+- [x] Qualifiers/Cryic.md
+- [x] Qualifiers/Columnic.md
+- [x] Qualifiers/Cohesic.md
+- [x] Qualifiers/Coarsic.md
+- [x] Qualifiers/Clayinovic.md
+- [x] Qualifiers/Clayic.md
+- [x] Qualifiers/Claric.md
+- [x] Qualifiers/Ekranic.md
+- [x] Qualifiers/Ejectiskeletic.md
+- [x] Qualifiers/Dystric.md
+- [x] Qualifiers/Duric.md
+- [x] Qualifiers/Drainic.md
+- [x] Qualifiers/Dorsic.md
+- [x] Qualifiers/Dolomitic.md
+- [x] Qualifiers/Escalic.md
+- [x] Qualifiers/Epic.md
+- [x] Qualifiers/Entic.md
+- [x] Qualifiers/Endic.md
+- [x] Qualifiers/Eutrosilic.md
+- [x] Qualifiers/Eutric.md
+- [x] Qualifiers/Evapocrustic.md
+- [x] Qualifiers/Ferralic.md
+- [x] Diagnostic Horizons/Terric Horizon.md
+- [x] Diagnostic Horizons/Spodic Horizon.md
+- [x] Diagnostic Horizons/Sombric Horizon.md
+- [x] Diagnostic Horizons/Salic Horizon.md
+- [x] Diagnostic Horizons/Protovertic Horizon.md
+- [x] Diagnostic Horizons/Tsitelic Horizon.md
+- [x] Diagnostic Horizons/Thionic Horizon.md
+- [x] Diagnostic Horizons/Umbric Horizon.md
+- [x] Qualifiers/Ferric.md
+- [x] Diagnostic Horizons/Vertic Horizon.md
+- [x] Qualifiers/Floatic.md
+- [x] Qualifiers/Fibric.md
+- [x] Qualifiers/Ferritic.md
+- [x] Diagnostic Materials/Aeolic Material.md
+- [x] Qualifiers/Folic.md
+- [x] Qualifiers/Fluvic.md
+- [x] Qualifiers/Fractiskeletic.md
+- [x] Qualifiers/Fractic.md
+- [x] Qualifiers/Fragic.md
+- [x] Diagnostic Materials/Tephric Material.md
+- [x] Diagnostic Materials/Technic Hard Material.md
+- [x] Diagnostic Materials/Solimovic Material.md
+- [x] Diagnostic Materials/Soil Organic Carbon.md
+- [x] Diagnostic Materials/Ornithogenic Material.md
+- [x] Diagnostic Materials/Organotechnic Material.md
+- [x] Diagnostic Materials/Organic Material.md
+- [x] Diagnostic Materials/Mulmic Material.md
+- [x] Diagnostic Materials/Mineral Material.md
+- [x] Diagnostic Materials/Limnic Material.md
+- [x] Diagnostic Materials/Hyposulfidic Material.md
+- [x] Diagnostic Materials/Hypersulfidic Material.md
+- [x] Diagnostic Materials/Gypsiric Material.md
+- [x] Diagnostic Materials/Fluvic Material.md
+- [x] Diagnostic Materials/Dolomitic Material.md
+- [x] Diagnostic Materials/Claric Material.md
+- [x] Diagnostic Materials/Calcaric Material.md
+- [x] Diagnostic Materials/Artefacts.md
+- [x] Qualifiers/Grumic.md
+- [x] Qualifiers/Greyzemic.md
+- [x] Qualifiers/Glossic.md
+- [x] Qualifiers/Gleyic.md
+- [x] Qualifiers/Glacic.md
+- [x] Qualifiers/Gilgaic.md
+- [x] Qualifiers/Gibbsic.md
+- [x] Qualifiers/Geric.md
+- [x] Qualifiers/Geoabruptic.md
+- [x] Qualifiers/Gelistagnic.md
+- [x] Qualifiers/Gelic.md
+- [x] Qualifiers/Garbic.md
+- [x] Qualifiers/Hortic.md
+- [x] Qualifiers/Histic.md
+- [x] Qualifiers/Hemic.md
+- [x] Qualifiers/Haplic.md
+- [x] Qualifiers/Gypsofractic.md
+- [x] Qualifiers/Gypsiric.md
+- [x] Qualifiers/Gypsic.md
+- [x] Qualifiers/Hydrophobic.md
+- [ ] Qualifiers/Hydric.md
+- [x] Qualifiers/Hydragric.md
+- [x] Qualifiers/Humic.md
+- [x] Qualifiers/Hypercalcic.md
+- [x] Qualifiers/Hyperartefactic.md
+- [x] Qualifiers/Hyperalic.md
+- [x] Qualifiers/Hyperdystric.md
+- [x] Qualifiers/Hyperduric.md
+- [x] Qualifiers/Hypereutric.md
+- [x] Qualifiers/Irragric.md
+- [x] Qualifiers/Infraspodic.md
+- [x] Qualifiers/Infraandic.md
+- [x] Qualifiers/Inclinistagnic.md
+- [x] Qualifiers/Inclinigleyic.md
+- [x] Qualifiers/Loamic.md
+- [x] Qualifiers/Inclinic.md
+- [x] Qualifiers/Immissic.md
+- [x] Qualifiers/Lixic.md
+- [x] Qualifiers/Hypothionic.md
+- [x] Qualifiers/Litholinic.md
+- [x] Qualifiers/Hyposulfidic.md
+- [x] Qualifiers/Lithic.md
+- [x] Qualifiers/Hyperurbic.md
+- [x] Qualifiers/Linic.md
+- [x] Qualifiers/Hyperthionic.md
+- [x] Qualifiers/Limonic.md
+- [x] Qualifiers/Hypertechnic.md
+- [x] Qualifiers/Limnic.md
+- [x] Qualifiers/Hypersulfidic.md
+- [x] Qualifiers/Lignic.md
+- [x] Qualifiers/Leptic.md
+- [x] Qualifiers/Laxic.md
+- [x] Qualifiers/Lapiadic.md
+- [x] Qualifiers/Kalaic.md
+- [x] Qualifiers/Isolatic.md
+- [x] Qualifiers/Hyperhydragric.md
+- [x] Qualifiers/Hyperhumic.md
+- [x] Qualifiers/Hypergypsic.md
+- [x] Qualifiers/Hypergeric.md
+- [x] Qualifiers/Hypergarbic.md
+- [x] Qualifiers/Hyperferritic.md
+- [x] Qualifiers/Hyperorganic.md
+- [x] Qualifiers/Hypernatric.md
+- [x] Qualifiers/Hypermagnesic.md
+- [x] Qualifiers/Hypersideralic.md
+- [x] Qualifiers/Hypersalic.md
+- [x] Qualifiers/Hyperspodic.md
+- [x] Qualifiers/Hyperspolic.md
+- [x] Qualifiers/Mazic.md
+- [x] Qualifiers/Manganiferric.md
+- [x] Qualifiers/Mochipic.md
+- [x] Qualifiers/Mahic.md
+- [x] Qualifiers/Minerolimnic.md
+- [x] Qualifiers/Magnesic.md
+- [x] Qualifiers/Luvic.md
+- [x] Qualifiers/Mineralic.md
+- [x] Qualifiers/Loaminovic.md
+- [x] Qualifiers/Mulmic.md
+- [x] Qualifiers/Murshic.md
+- [x] Qualifiers/Mollic.md
+- [x] Qualifiers/Nitic.md
+- [x] Qualifiers/Neocambic.md
+- [x] Qualifiers/Neobrunic.md
+- [x] Qualifiers/Nechic.md
+- [x] Qualifiers/Natric.md
+- [x] Qualifiers/Naramic.md
+- [x] Qualifiers/Nudilithic.md
+- [x] Qualifiers/Nudiargic.md
+- [x] Qualifiers/Novic.md
+- [x] Qualifiers/Nudipetric.md
+- [x] Qualifiers/Nudinatric.md
+- [x] Qualifiers/Nudiyermic.md
+- [x] Qualifiers/Oligoeutric.md
+- [x] Qualifiers/Protic.md
+- [x] Qualifiers/Profundihumic.md
+- [x] Qualifiers/Profondic.md
+- [x] Qualifiers/Pretic.md
+- [x] Qualifiers/Posic.md
+- [x] Qualifiers/Plinthic.md
+- [x] Qualifiers/Plaggic.md
+- [x] Qualifiers/Placic.md
+- [x] Qualifiers/Pisoplinthic.md
+- [x] Qualifiers/Petrosalic.md
+- [x] Qualifiers/Petroplinthic.md
+- [x] Qualifiers/Petrogypsic.md
+- [x] Qualifiers/Petroduric.md
+- [x] Qualifiers/Petrocalcic.md
+- [x] Qualifiers/Petric.md
+- [x] Qualifiers/Pelocrustic.md
+- [x] Qualifiers/Pellic.md
+- [x] Qualifiers/Orthofluvic.md
+- [x] Qualifiers/Relictiturbic.md
+- [x] Qualifiers/Relictistagnic.md
+- [x] Qualifiers/Orthoeutric.md
+- [x] Qualifiers/Relictigleyic.md
+- [x] Qualifiers/Orthodystric.md
+- [x] Qualifiers/Ornithic.md
+- [x] Qualifiers/Reductic.md
+- [x] Qualifiers/Organotransportic.md
+- [x] Qualifiers/Reductaquic.md
+- [x] Qualifiers/Organolimnic.md
+- [x] Qualifiers/Ombric.md
+- [x] Qualifiers/Raptic.md
+- [x] Qualifiers/Radiotoxic.md
+- [x] Qualifiers/Pyric.md
+- [x] Qualifiers/Puffic.md
+- [x] Qualifiers/Siltic.md
+- [x] Qualifiers/Protovertic.md
+- [x] Qualifiers/Silandic.md
+- [x] Qualifiers/Prototephric.md
+- [x] Qualifiers/Sideralic.md
+- [x] Qualifiers/Saprolithic.md
+- [x] Qualifiers/Prototechnic.md
+- [x] Qualifiers/Sapric.md
+- [x] Qualifiers/Protostagnic.md
+- [x] Qualifiers/Salic.md
+- [x] Qualifiers/Rustic.md
+- [x] Qualifiers/Protospodic.md
+- [x] Qualifiers/Rheic.md
+- [x] Qualifiers/Protosodic.md
+- [x] Qualifiers/Protosalic.md
+- [x] Qualifiers/Protokalaic.md
+- [x] Qualifiers/Protogypsic.md
+- [x] Qualifiers/Protogleyic.md
+- [x] Qualifiers/Protocalcic.md
+- [x] Qualifiers/Protoargic.md
+- [x] Qualifiers/Protoandic.md
+- [x] Qualifiers/Relocatic.md
+- [x] Qualifiers/Rendzic.md
+- [x] Qualifiers/Paviyermic.md
+- [x] Qualifiers/Panpaic.md
+- [x] Qualifiers/Pachic.md
+- [x] Qualifiers/Solimovic.md
+- [x] Qualifiers/Oxygleyic.md
+- [x] Qualifiers/Sodic.md
+- [x] Qualifiers/Oxyaquic.md
+- [x] Qualifiers/Skeletotransportic.md
+- [x] Qualifiers/Ortsteinic.md
+- [x] Qualifiers/Skeletohistic.md
+- [x] Qualifiers/Orthoskeletic.md
+- [x] Qualifiers/Skeletofolic.md
+- [x] Qualifiers/Orthomineralic.md
+- [x] Qualifiers/Skeletic.md
+- [x] Qualifiers/Siltinovic.md
+- [x] Qualifiers/Sombric.md
+- [x] Qualifiers/Somerirendzic.md
+- [x] Qualifiers/Someric.md
+- [x] Qualifiers/Somerimollic.md
+- [x] Qualifiers/Spodic.md
+- [x] Qualifiers/Someriumbric.md
+- [x] Qualifiers/Retic.md
+- [x] Qualifiers/Sulfatic.md
+- [x] Qualifiers/Subaquatic.md
+- [x] Qualifiers/Stagnic.md
+- [x] Qualifiers/Takyric.md
+- [x] Qualifiers/Tephric.md
+- [x] Qualifiers/Technotephric.md
+- [x] Qualifiers/Yermic.md
+- [x] Qualifiers/Xanthic.md
+- [x] Qualifiers/Wapnic.md
+- [x] Qualifiers/Vitric.md
+- [x] Qualifiers/Vertic.md
+- [x] Qualifiers/Vermic.md
+- [x] Qualifiers/Uterquic.md
+- [x] Qualifiers/Urbic.md
+- [x] Qualifiers/Umbric.md
+- [x] Qualifiers/Turbic.md
+- [x] Qualifiers/Tsitelic.md
+- [x] Qualifiers/Transportic.md
+- [x] Qualifiers/Toxic.md
+- [x] Qualifiers/Totilamellic.md
+- [x] Qualifiers/Tonguiumbric.md
+- [x] Qualifiers/Tonguimollic.md
+- [x] Qualifiers/Tonguichernic.md
+- [x] Qualifiers/Tonguic.md
+- [x] Qualifiers/Tidalic.md
+- [x] Qualifiers/Thyric.md
+- [x] Qualifiers/Thixotropic.md
+- [x] Qualifiers/Thionic.md
+- [x] Qualifiers/Terric.md

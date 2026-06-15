@@ -14,4 +14,4 @@ The identification of secondary gypsum is described in Annex 1 (Chapter 8.4.26).
 
 ## Relationships with some other Diagnostics
 
-Accumulations of secondary gypsum with higher gypsum contents may qualify for a gypsic horizon, or if continuously cemented, for a petrogypsic horizon. Gypsiric material includes primary gypsum.
+Accumulations of secondary gypsum with higher gypsum contents may qualify for a [[Gypsic Horizon|gypsic horizon]], or if continuously cemented, for a [[Petrogypsic Horizon|petrogypsic horizon]]. [[Gypsiric Material|Gypsiric material]] includes primary gypsum.

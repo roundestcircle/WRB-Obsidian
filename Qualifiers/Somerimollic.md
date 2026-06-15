@@ -1,4 +1,4 @@
-Abbreviation:: sm
-Maingroup:: [[Mollic]]
+﻿#Qualifier
+Abbreviation:: sm Maingroup:: Mollic
 
-Somerimollic (sm) (from Spanish somero, superficial): having a mollic horizon, < 20 cm thick.
+Somerimollic (sm) (from Spanish somero, superficial): having a [[Mollic Horizon|mollic horizon]], < 20 cm thick.

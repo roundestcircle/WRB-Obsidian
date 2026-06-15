@@ -1,5 +1,4 @@
-Abbreviation:: jc
-Maingroup:: [[Calcic]]
+﻿#Qualifier
+Abbreviation:: jc Maingroup:: Calcic
 
-Hypercalcic (jc) (from Greek hyper, over): having a calcic horizon with a calcium carbonate
-equivalent of ≥ 50% and starting ≤ 100 cm from the mineral soil surface (2).
+Hypercalcic (jc) (from Greek hyper, over): having a [[Calcic Horizon|calcic horizon]] with a calcium carbonate equivalent of ≥ 50% and starting ≤ 100 cm from the mineral soil surface (2).

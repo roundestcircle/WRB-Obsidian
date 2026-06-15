@@ -10,7 +10,7 @@ Technic hard material:
 
 1. is consolidated material resulting from industrial or artisanal processes; *and*
 2. has properties substantially different from those of natural materials; *and*
-3. is continuous or has free space covering < 5% of its horizontal extension.
+3. is [[Continuous Rock|continuous rock]] or has free space covering < 5% of its horizontal extension.
 
 ## Additional Information
 
@@ -18,4 +18,4 @@ Examples of technic hard material are asphalt, concrete or a continuous layer of
 
 ## Relationships with some other Diagnostics
 
-Technic hard material, intact, fractured or composed, also fulfils the diagnostic criteria of artefacts.
+Technic hard material, intact, fractured or composed, also fulfils the diagnostic criteria of [[Artefacts|artefacts]].

@@ -4,7 +4,7 @@
 
 Other soils having an [[Umbric Horizon]] or [[Mollic Horizon]] or [[Hortic Horizon]].
 
-Next Soil to check if not UMBRISOLS: [[Durisols]]
+Next Soil to check if not UMBRISOLS: Durisols
 
 Primary Qualifiers::
 - [[Hortic]]

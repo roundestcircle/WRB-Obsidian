@@ -6,12 +6,13 @@ Other soils having:
 
 1. a [[Ferralic Horizon]] starting ≤ 150 cm from the mineral soil surface;
    *and*
-2. no [[Argic Horizon]] starting above or at the upper limit of the [[Ferralic Horizon]], unless the [[Argic Horizon]] has, in its upper 30 cm or throughout, whichever is shallower, one or more of the following:
-   a. < 10% water-dispersible clay; *or*
-   b. a ΔpH (pH<sub>KCl</sub> - pH<sub>water</sub>) ≥ 0 (both in 1:1 solution); *or*
-   c. ≥ 1.4% *soil organic carbon*.
+2. no [[Argic Horizon]] starting above or at the upper limit of the [[Ferralic Horizon|ferralic horizon]], unless the [[Argic Horizon|argic horizon]] has, in its upper 30 cm or throughout, whichever is shallower, one or more of the following:
 
-Next Soil to check if not FERRALSOLS: [[Chernozems]]
+a. < 10% water-dispersible clay; *or*
+b. a ΔpH (pH<sub>KCl</sub> - pH<sub>water</sub>) ≥ 0 (both in 1:1 solution); *or*
+c. ≥ 1.4% *[[Soil Organic Carbon|soil organic carbon]]*.
+
+Next Soil to check if not FERRALSOLS: Chernozems
 
 Primary Qualifiers::
 - [[Ferritic]]
@@ -28,7 +29,7 @@ Primary Qualifiers::
 - [[Umbric]]
 - [[Acric]]
 - [[Lixic]]
-- [[Skeletal]]
+- [[Skeletic]]
 - [[Haplic]]
 
 Supplementary Qualifiers::
@@ -40,7 +41,7 @@ Supplementary Qualifiers::
 - [[Activic]]
 - [[Andic]]
 - [[Aric]]
-- [[Coheisc]]
+- [[Cohesic]]
 - [[Densic]]
 - [[Dystric]]
 - [[Eutric]]

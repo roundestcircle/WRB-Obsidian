@@ -2,11 +2,11 @@
 
 ## Diagnostic Criteria
 
-Limnic material (from Greek *limnae*, pool) includes both organic and mineral material and is one or more of the following:
+Limnic material (from Greek *limnae*, pool) includes both [[Organic Material|organic material]] and [[Mineral Material|mineral material]] and is one *or* more of the following:
 
-1. deposited in water by precipitation, possibly in combination with sedimentation; or
-2. derived from algae; or
-3. derived from aquatic plants and subsequently transported; or
+1. deposited in water by precipitation, possibly in combination with sedimentation; *or*
+2. derived from algae; *or*
+3. derived from aquatic plants and subsequently transported; *or*
 4. derived from aquatic plants and subsequently modified by aquatic animals and/or microorganisms.
 
 ## Field Identification

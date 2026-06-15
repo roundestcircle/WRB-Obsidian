@@ -6,14 +6,15 @@ Organic material (from Greek *organon*, tool) has large amounts of organic matte
 
 ## Diagnostic Criteria
 
-Organic material
+Organic material:
 
-1. has ≥ 20% soil organic carbon (related to the fine earth plus the dead plant residues of any length and a diameter ≤ 5 mm);
+1. has ≥ 20% [[Soil Organic Carbon|soil organic carbon]] (related to the fine earth plus the dead plant residues of any length and a diameter ≤ 5 mm);
    *and*
-2. one or more of the following
-   a. contains ≤ 90% (by volume, related to the fine earth plus all dead plant residues) recognizable dead plant tissues *or*
-   b. is not loose; *or*
-   c. consists of dead plant material still connected to living plants.
+2. one *or* more of the following:
+
+a. contains ≤ 90% (by volume, related to the fine earth plus all dead plant residues) recognizable dead plant tissues; *or*
+b. is not loose; *or*
+c. consists of dead plant material still connected to living plants.
 
 ## Additional Information
 
@@ -21,4 +22,4 @@ Organic material
 
 ## Relationships with some other Diagnostics
 
-Soil organic carbon is organic carbon that does not meet the set of diagnostic criteria of artefacts. Material that has < 20% soil organic carbon is either organotechnic or mineral material. Histic and folic horizons consist of organic material.
+Soil organic carbon is organic carbon that does not meet the set of diagnostic criteria of [[Artefacts|artefacts]]. Material that has < 20% soil organic carbon is either [[Organotechnic Material|organotechnic]] or [[Mineral Material|mineral material]]. [[Histic Horizon|Histic]] and [[Folic Horizon|folic]] horizons consist of organic material.

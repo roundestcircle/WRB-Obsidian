@@ -7,7 +7,7 @@ Other soils having:
 1. a [[Cryic Horizon]] starting ≤ 100 cm from the soil surface; *or*
 2. a [[Cryic Horizon]] starting ≤ 200 cm from the soil surface and evidence of cryogenic alteration (cryoturbation, frost heave, cryogenic sorting, thermal cracking, ice segregation, patterned ground, etc.) in some layer within 100 cm of the soil surface.
 
-Next Soil to check if not CRYOSOLS: [[Leptosols]]
+Next Soil to check if not CRYOSOLS: Leptosols
 
 Primary Qualifiers::
 - [[Glacir]]

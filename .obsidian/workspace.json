@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSTRUCTIONS.md",
+                "file": "Diagnostic Horizons/Albic Horizon.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INSTRUCTIONS"
+              "title": "Albic Horizon"
             }
           }
         ],
@@ -201,8 +201,19 @@
   },
   "active": "7787825f4fbaa7db",
   "lastOpenFiles": [
-    "Soil Groups/Vertisols.md",
+    "TODO.tmp.40852.29e88eec5d6f",
+    "TODO.tmp.40852.e9bb494a10e1",
+    "KEY.md.tmp.40852.ba72fe0ad698",
+    "TODO.tmp.40852.b71e5ee2f159",
+    "Qualifiers/Vitric.md.tmp.40852.44d0c17f43f0",
+    "TODO.tmp.40852.116e5bf80e01",
+    "Qualifiers/Uterquic.md.tmp.40852.a267b466c855",
+    "Qualifiers/Transportic.md.tmp.40852.7c1eed3fc0ea",
+    "TODO.tmp.40852.cb8ab1a6b13d",
+    "Qualifiers/Tonguic.md.tmp.40852.c6c08a98e33c",
+    "Qualifiers/Thyric.md.tmp.40852.24a4417e736f",
     "INSTRUCTIONS.md",
+    "Soil Groups/Vertisols.md",
     "Soil Groups/Umbrisols.md",
     "Soil Groups/Technosols.md",
     "Soil Groups/Stagnosols.md",
@@ -225,14 +236,6 @@
     "Soil Groups/Fluvisols.md",
     "Soil Groups/Ferralsols.md",
     "Soil Groups/Durisols.md",
-    "Soil Groups/Cryosols.md",
-    "Soil Groups/Chernozems.md",
-    "Templates",
-    "Overviews",
-    "Qualifiers",
-    "Diagnostic Materials",
-    "Soil Groups",
-    "Diagnostic Horizons",
-    "Diagnostic Properties"
+    "Soil Groups/Cryosols.md"
   ]
 }

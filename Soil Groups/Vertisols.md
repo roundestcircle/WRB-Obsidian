@@ -9,13 +9,13 @@ Other soils having:
 2. ≥ 30% clay between the mineral soil surface and the vertic horizon throughout;
    *and*
 3. [[Shrink-Swell Cracks]] that start:
-   a. at the mineral soil surface; *or*
-   b. at the base of a plough layer; *or*
-   c. directly below a layer with strong granular structure or strong angular or subangular blocky structure with an aggregate size of ≤ 1 cm (self-mulching surface); *or*
-   d. directly below a surface crust;
-   *and* extend to the vertic horizon.
 
-Next Soil to check if not VERTISOLS: [[Solonchaks]]
+a. at the mineral soil surface; *or*
+b. at the base of a plough layer; *or*
+c. directly below a layer with strong granular structure or strong angular or subangular blocky structure with an aggregate size of ≤ 1 cm (self-mulching surface); *or*
+d. directly below a surface crust;  *and* extend to the vertic horizon.
+
+Next Soil to check if not VERTISOLS: Solonchaks
 
 Primary Qualifiers::
 - [[Salic]]
@@ -59,7 +59,7 @@ Supplementary Qualifiers::
 - [[Oxyaquic]]
 - [[Pyric]]
 - [[Raptic]]
-- [[Skeletal]]
+- [[Skeletic]]
 - [[Stagnic]]
 - [[Sulfidic]]
 - [[Takyric]]

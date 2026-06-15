@@ -10,4 +10,4 @@ Calcaric material shows visible effervescence with 1 M HCl throughout the fine e
 
 ## Relationships with some other Diagnostics
 
-Calcaric material may also meet the diagnostic criteria of protocalcic properties, which show discernible accumulations of secondary carbonates. Calcic and petrocalcic horizons have higher contents of carbonates and also show secondary carbonates. Petrocalcic horizons are continuously cemented.
+Calcaric material may also meet the diagnostic criteria of [[Protocalcic Properties|protocalcic properties]], which show discernible accumulations of secondary carbonates. [[Calcic Horizon|Calcic]] and [[Petrocalcic Horizon|petrocalcic]] horizons have higher contents of carbonates and also show secondary carbonates. Petrocalcic horizons are continuously cemented.

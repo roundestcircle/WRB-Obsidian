@@ -1,5 +1,4 @@
-Abbreviation:: jy
-Maingroup:: [[Hydragric]]
+﻿#Qualifier
+Abbreviation:: jy Maingroup:: Hydragric
 
-Hyperhydragric (jy) (from Greek hyper, over): having an anthraquic horizon and a directly underlying
-hydragric horizon with a combined thickness of ≥ 100 cm.
+Hyperhydragric (jy) (from Greek hyper, over): having an [[Anthraquic Horizon|anthraquic horizon]] and a directly underlying [[Hydragic Horizon|hydragric horizon]] with a combined thickness of ≥ 100 cm.

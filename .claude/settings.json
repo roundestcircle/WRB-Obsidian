@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Horizons/Spodic Horizon.md\")",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Horizons/Terric Horizon.md\")",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Horizons/Thionic Horizon.md\")",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Horizons/Tsitelic Horizon.md\")",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Horizons/Umbric Horizon.md\")",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Horizons/Vertic Horizon.md\")",
+      "Bash(git -C \"c:\\\\Users\\\\jakob\\\\Documents\\\\Geowissenschaften\\\\Lettland\\\\WRB\" show HEAD:\"Diagnostic Materials/Aeolic Material.md\")"
+    ]
+  }
+}

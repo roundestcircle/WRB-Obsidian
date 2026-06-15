@@ -1,5 +1,4 @@
-Abbreviation:: am
-Maingroup:: [[Mollic]]
+﻿#Qualifier
+Abbreviation:: am Maingroup:: Mollic
 
-Anthromollic (am) (from Greek anthropos, human being): having a mollic horizon and anthric
-properties (2: Ano- and Panto- only).
+Anthromollic (am) (from Greek anthropos, human being): having a [[Mollic Horizon|mollic horizon]] and [[Anthric Properties|anthric properties]] (2: Ano- and Panto- only).

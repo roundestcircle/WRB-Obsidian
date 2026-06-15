@@ -1,4 +1,4 @@
-Abbreviation:: sw
-Maingroup:: [[Umbric]]
+﻿#Qualifier
+Abbreviation:: sw Maingroup:: Umbric
 
-Someriumbric (sw) (from Spanish somero, superficial): having an umbric horizon, < 20 cm thick.
+Someriumbric (sw) (from Spanish somero, superficial): having an [[Umbric Horizon|umbric horizon]], < 20 cm thick.

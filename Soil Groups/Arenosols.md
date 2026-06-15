@@ -8,7 +8,7 @@ Other soils having within 100 cm of the mineral soil surface:
 2. layers of finer texture, if present, with a combined thickness of < 15 cm; *and*
 3. layers with ≥ 40% (by volume, related to the whole soil) coarse fragments, if present, with a combined thickness of < 15 cm.
 
-Next Soil to check if not ARENOSOLS: [[Regosols]]
+Next Soil to check if not ARENOSOLS: Regosols
 
 Primary Qualifiers::
 - [[Tidalic]]

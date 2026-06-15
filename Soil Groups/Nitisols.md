@@ -8,7 +8,7 @@ Other soils having:
 2. from the mineral soil surface to the nitic horizon, a clay content that is at least half of the weighted average clay content of the nitic horizon; *and*
 3. no [[Vertic Horizon]] starting above or at the upper limit of the nitic horizon.
 
-Next Soil to check if not NITISOLS: [[Ferralsols]]
+Next Soil to check if not NITISOLS: Ferralsols
 
 Primary Qualifiers::
 - [[Ferralic]]

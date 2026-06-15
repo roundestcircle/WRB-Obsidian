@@ -2,14 +2,14 @@
 
 ## Key to the Reference Group
 
-Other soils having a [[Plinthic Horizon]], [[Pisoplinthic Horizon]] or [[Petroplinthic Horizon]] starting ≤ 100 cm from the mineral soil surface. 
+Other soils having a [[Plinthic Horizon]], [[Pisoplinthic Horizon]] or [[Petroplinthic Horizon]] starting ≤ 100 cm from the mineral soil surface.
 
-Next Soil to check if not PLINTHOSOLS: [[Planosols]]
+Next Soil to check if not PLINTHOSOLS: Planosols
 
 Primary Qualifiers::
 - [[Petric]]
 - [[Pisoplinthic]]
-- [[Gibbisc]]
+- [[Gibbsic]]
 - [[Stagnic]]
 - [[Geric]]
 - [[Nitic]]
@@ -31,7 +31,7 @@ Supplementary Qualifiers::
 - [[Acric]]
 - [[Lixic]]
 - [[Aric]]
-- [[Cohesive]]
+- [[Cohesic]]
 - [[Drainic]]
 - [[Duric]]
 - [[Dystric]]

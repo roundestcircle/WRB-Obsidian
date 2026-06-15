@@ -6,10 +6,10 @@ Organotechnic material (from Greek *organon*, tool, and *technae*, art) contains
 
 ## Diagnostic Criteria
 
-Organotechnic material has
+Organotechnic material has:
 
-1. ≥ 35% (by volume, related to the whole soil) artefacts containing ≥ 20% organic carbon; *and*
-2. < 20% soil organic carbon (related to the fine earth plus the dead plant residues of any length and a diameter ≤ 5 mm).
+1. ≥ 35% (by volume, related to the whole soil) [[Artefacts|artefacts]] containing ≥ 20% organic carbon; *and*
+2. < 20% [[Soil Organic Carbon|soil organic carbon]] (related to the fine earth plus the dead plant residues of any length and a diameter ≤ 5 mm).
 
 ## Additional Information
 
@@ -17,4 +17,4 @@ Examples for organotechnic material are excavated coal, petroleum lenses, plasti
 
 ## Relationships with some other Diagnostics
 
-Material with ≥ 20% soil organic carbon is organic material, irrespective of the other components. Material with < 20% soil organic carbon and lower amounts of organic artefacts is mineral material.
+Material with ≥ 20% soil organic carbon is [[Organic Material|organic material]], irrespective of the other components. Material with < 20% soil organic carbon and lower amounts of organic artefacts is [[Mineral Material|mineral material]].

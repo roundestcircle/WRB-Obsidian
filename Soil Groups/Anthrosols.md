@@ -8,7 +8,7 @@ Other soils having:
 2. an [[Anthraquic Horizon]] and an underlying [[Hydragic Horizon]] with a combined thickness of ≥ 50 cm; *or*
 3. a [[Pretic Horizon]], the layers of which have a combined thickness of ≥ 50 cm, within 100 cm of the mineral soil surface.
 
-Next Soil to check if not ANTHROSOLS: [[Technosols]]
+Next Soil to check if not ANTHROSOLS: Technosols
 
 Primary Qualifiers::
 - [[Hydragric]]
@@ -51,7 +51,7 @@ Supplementary Qualifiers::
 - [[Panpaic]]
 - [[Pyric]]
 - [[Salic]]
-- [[Skeletal]]
+- [[Skeletic]]
 - [[Sodic]]
 - [[Spodic]]
 - [[Technic]]

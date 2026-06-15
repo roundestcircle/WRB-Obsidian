@@ -7,10 +7,10 @@ Other soils having:
 1. [[Stagnic Properties]], in which the area of reductomorphic features plus the area of oximorphic features is ≥ one third (weighted average, related to the fine earth plus oximorphic features of any size and any cementation class) of the area from the mineral soil surface to a depth of 60 cm or to [[Continuous Rock]], whichever is shallower; *and*
 2. reducing conditions for some time during the year in some parts of the soil volume that has the reductimorphic features within 60 cm from the mineral soil surface or to continuous rock, whichever is shallower.
 
-Next Soil to check if not STAGNOSOLS: [[Nitisols]]
+Next Soil to check if not STAGNOSOLS: Nitisols
 
 Primary Qualifiers::
-- [[Reductive]]
+- [[Reductaquic]]
 - [[Thionic]]
 - [[Leptic]]
 - [[Hydragric]]
@@ -50,7 +50,7 @@ Supplementary Qualifiers::
 - [[Aric]]
 - [[Cambic]]
 - [[Capillaric]]
-- [[Coheesic]]
+- [[Cohesic]]
 - [[Drainic]]
 - [[Ferralic]]
 - [[Sideralic]]

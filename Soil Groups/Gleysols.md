@@ -5,20 +5,22 @@
 Other soils having one or more of the following:
 
 1. a layer, ≥ 25 cm thick and starting ≤ 40 cm from the mineral soil surface, that has
-   a. [[Gleyic Properties]] throughout; *and*
-   b. [[Reducing Conditions]] in some parts of every sublayer; *or*
+
+a. [[Gleyic Properties]] throughout; *and*
+b. [[Reducing Conditions]] in some parts of every sublayer; *or*
 2. both of the following:
-   a. a [[Mollic Horizon]] or [[Umbric Horizon]], > 40 cm thick, that has [[Reducing Conditions]] in some parts of every sublayer, from 40 cm below the mineral soil surface to the lower limit of the mollic or umbric horizon; *and*
-   b. directly underneath the mollic/umbric horizon, a layer, ≥ 10 cm thick, that has its lower limit ≥ 65 cm below the mineral soil surface, and that has:
+
+a. a [[Mollic Horizon]] or [[Umbric Horizon]], > 40 cm thick, that has reducing conditions in some parts of every sublayer, from 40 cm below the mineral soil surface to the lower limit of the mollic or umbric horizon; *and*
+b. directly underneath the mollic/umbric horizon, a layer, ≥ 10 cm thick, that has its lower limit ≥ 65 cm below the mineral soil surface, and that has:
       i. gleyic properties throughout; *and*
       ii. reducing conditions in some parts of every sublayer; *or*
 3. permanent saturation by water starting ≤ 40 cm from the mineral soil surface.
 
-Next Soil to check if not GLEYSOLS: [[Andosols]]
+Next Soil to check if not GLEYSOLS: Andosols
 
 Primary Qualifiers::
 - [[Thionic]]
-- [[Reductive]]
+- [[Reductaquic]]
 - [[Subaquatic]]
 - [[Tidalic]]
 - [[Hydragric]]

@@ -6,12 +6,13 @@ Mulmic material (from German *Mulm*, powdery detritus) is mineral material devel
 
 ## Diagnostic Criteria
 
-Mulmic material is mineral material that has developed from water-saturated organic material after drainage and that has:
+Mulmic material is [[Mineral Material|mineral material]] that has developed from water-saturated [[Organic Material|organic material]] after drainage and that has:
 
-1. ≥ 8% soil organic carbon;
+1. ≥ 8% [[Soil Organic Carbon|soil organic carbon]];
    *and*
 2. single or in combination:
-   a. a single grain structure; *or*
-   b. a subangular or angular blocky structure with an average aggregate size of ≤ 2 cm;
+
+a. a single grain structure; *or*
+b. a subangular or angular blocky structure with an average aggregate size of ≤ 2 cm;
    *and*
 3. a Munsell colour chroma of ≤ 2, moist.

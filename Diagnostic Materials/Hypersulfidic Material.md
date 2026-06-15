@@ -8,14 +8,15 @@ Hypersulfidic material (from Greek *hyper*, over, and Latin *sulpur*, sulfur) co
 
 Hypersulfidic material:
 
-1. has ≥ 0.01% inorganic sulfidic S;
+1. has ≥ 0.01% inorganic Sulfidic S;
    *and*
 2. has a pH (1:1 by mass in water, or in a minimum of water to permit measurement) of ≥ 4;
    *and*
-3. when a layer, 2–10 mm thick, is incubated aerobically at field capacity for 8 weeks, the pH drops to < 4 and one or more of the following:
-   a. within these 8 weeks, the total pH decline is ≥ 0.5 pH units; or
-   b. latest after these 8 weeks, the decrease in pH is only ≤ 0.1 pH units over a further period of 14 days; or
-   c. latest after these 8 weeks, the pH begins to increase again.
+3. when a layer, 2–10 mm thick, is incubated aerobically at field capacity for 8 weeks, the pH drops to < 4 *and* one *or* more of the following:
+
+a. within these 8 weeks, the total pH decline is ≥ 0.5 pH units; *or*
+b. latest after these 8 weeks, the decrease in pH is only ≤ 0.1 pH units over a further period of 14 days; *or*
+c. latest after these 8 weeks, the pH begins to increase again.
 
 ## Field Identification
 
@@ -27,4 +28,4 @@ For a quick screening test that is not definitive, a 10 g sample treated with 50
 
 ## Relationships with some other Diagnostics
 
-Acidification of hypersulfidic material usually causes the development of a thionic horizon. Hyposulfidic material has the same criteria for inorganic sulfidic S and for the pH value but is not capable of severe acidification.
+Acidification of hypersulfidic material usually causes the development of a [[Thionic Horizon|thionic horizon]]. [[Hyposulfidic Material|Hyposulfidic material]] has the same criteria for inorganic sulfidic S and for the pH value but is not capable of severe acidification.

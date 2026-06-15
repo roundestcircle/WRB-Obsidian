@@ -7,7 +7,7 @@ Other soils having:
 1. an [[Argic Horizon]] starting ≤ 100 cm from the mineral soil surface; *and*
 2. a CEC (by 1 M NH₄OAc, pH 7) of < 24 cmol<sub>c</sub> kg⁻¹ clay in some subhorizon of the argic horizon within 150 cm of the mineral soil surface.
 
-Next Soil to check if not LIXISOLS: [[Alisols]]
+Next Soil to check if not LIXISOLS: Alisols
 
 Primary Qualifiers::
 - [[Abruptic]]
@@ -55,7 +55,7 @@ Supplementary Qualifiers::
 - [[Endic]]
 - [[Fractic]]
 - [[Geric]]
-- [[Gibbisc]]
+- [[Gibbsic]]
 - [[Humic]]
 - [[Ochric]]
 - [[Magnesic]]

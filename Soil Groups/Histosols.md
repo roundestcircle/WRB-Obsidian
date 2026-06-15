@@ -15,12 +15,12 @@ Soils having one or more of the following:
    - ≥ 40 cm;
    *and* the major part of the interstices between the coarse fragments is filled with organic material and the remaining interstices, if present, are void.
 
-Next Soil to check if not HISTOSOLS: [[Anthrosols]]
+Next Soil to check if not HISTOSOLS: Anthrosols
 
 Primary Qualifiers::
 - [[Music]]
 - [[Rockic]]
-- [[Mawiс]]
+- [[Mawic]]
 - [[Cricy]]
 - [[Thionic]]
 - [[Folic]]

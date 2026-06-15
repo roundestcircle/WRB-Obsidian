@@ -5,9 +5,9 @@
 Other soils having:
 
 1. a [[Gypsic Horizon]] or [[Petrogypsic Horizon]] starting ≤ 100 cm from the mineral soil surface; *and*
-2. no [[Argic Horizon]] starting above or at the upper limit of the [[Gypsic Horizon]] or [[Petrogypsic Horizon]], unless the argic horizon contains secondary gypsum or secondary carbonates, throughout.
+2. no [[Argic Horizon]] starting above or at the upper limit of the gypsic horizon or petrogypsic horizon, unless the argic horizon contains secondary gypsum or secondary carbonates, throughout.
 
-Next Soil to check if not GYPSISOLS: [[Calcisols]]
+Next Soil to check if not GYPSISOLS: Calcisols
 
 Primary Qualifiers::
 - [[Petric]]

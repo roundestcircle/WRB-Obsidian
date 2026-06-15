@@ -20,6 +20,6 @@ Vitric properties can occur in a surface layer. However, they can also occur und
 
 ## Relationships with some other Diagnostics
 
-Vitric properties are, on the one hand, closely linked with andic properties, into which they may eventually develop. For some time during this development, a layer may show both the amount of volcanic glasses required for the vitric properties and the characteristics of andic properties. On the other hand, layers with vitric properties develop from tephric material. The diagnostic criteria of the vitric and andic properties are adapted after Shoji et al. (1996), Takahashi et al. (2004) and findings of the COST 622 Action.
+Vitric properties are, on the one hand, closely linked with [[Andic Properties|andic properties]], into which they may eventually develop. For some time during this development, a layer may show both the amount of volcanic glasses required for the vitric properties and the characteristics of andic properties. On the other hand, layers with vitric properties develop from [[Tephric Material|tephric material]]. The diagnostic criteria of the vitric and andic properties are adapted after Shoji et al. (1996), Takahashi et al. (2004) and findings of the COST 622 Action.
 
-Chernic, mollic and umbric horizons may exhibit vitric properties as well.
+[[Chernic Horizon|Chernic]], [[Mollic Horizon|mollic]] and [[Umbric Horizon|umbric]] horizons may exhibit vitric properties as well.

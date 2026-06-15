@@ -8,7 +8,7 @@ Other soils:
    *and*
 2. not having a [[Thionic Horizon]] starting ≤ 50 cm from the soil surface;
 
-Next Soil to check if not SOLONCHAKS: [[Gleysols]]
+Next Soil to check if not SOLONCHAKS: Gleysols
 
 Primary Qualifiers::
 - [[Petrosalic]]

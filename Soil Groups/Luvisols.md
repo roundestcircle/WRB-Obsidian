@@ -4,7 +4,7 @@
 
 Other soils having an [[Argic Horizon]] starting ≤ 100 cm from the mineral soil surface.
 
-Next Soil to check if not LUVISOLS: [[Cambisols]]
+Next Soil to check if not LUVISOLS: Cambisols
 
 Primary Qualifiers::
 - [[Abruptic]]
@@ -29,7 +29,7 @@ Primary Qualifiers::
 - [[Calcic]]
 - [[Yermic]]
 - [[Takyric]]
-- [[Skeletal]]
+- [[Skeletic]]
 - [[Dolomitic]]
 - [[Calcaric]]
 - [[Haplic]]

@@ -9,7 +9,7 @@ Tephric material (from Greek *tephra*, pile ash) has many glasses in the fine ea
 Tephric material has:
 
 1. in the fraction between > 0.02 and ≤ 2 mm, ≥ 30% (by grain count) volcanic glass, glassy aggregates, other glass-coated primary minerals or glasses resulting from industrial processes; *and*
-2. no andic or vitric properties.
+2. no [[Andic Properties|andic]] or [[Vitric Properties|vitric properties]].
 
 ## Additional Information
 
@@ -17,4 +17,4 @@ Tephric material refers to the fine earth, but coarse fragments may also be pres
 
 ## Relationships with some other Diagnostics
 
-Progressive weathering of tephric material will lead to the formation of vitric properties. Glasses resulting from industrial processes fulfil the criteria of artefacts.
+Progressive weathering of tephric material will lead to the formation of [[Vitric Properties|vitric properties]]. Glasses resulting from industrial processes fulfil the criteria of [[Artefacts|artefacts]].

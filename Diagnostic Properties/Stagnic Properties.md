@@ -6,30 +6,31 @@ Stagnic properties (from Latin *stagnare*, to flood) form in layers that are, at
 
 ## Diagnostic Criteria
 
-Stagnic properties refer to mineral material, show redoximorphic features and comprise one or more of the following:
+Stagnic properties refer to [[Mineral Material|mineral material]], show redoximorphic features and comprise one *or* more of the following:
 
 1. a layer that comprises reductimorphic features and soil material with the matrix colour and that shows both of the following:
-   a. the reductimorphic features are predominantly around biopores and, if soil aggregates are present, predominantly at the outer parts of the aggregates; and
-   b. the reductimorphic features have, compared against the matrix colour, the following Munsell colours, moist: a value ≥ 1 unit higher and a chroma ≥ 1 unit lower;
-   *or*
+
+a. the reductimorphic features are predominantly around biopores and, if soil aggregates are present, predominantly at the outer parts of the aggregates; *and*
+b. the reductimorphic features have, compared against the matrix colour, the following Munsell colours, moist: a value ≥ 1 unit higher and a chroma ≥ 1 unit lower;
+*or*
 2. a layer that comprises oximorphic features and soil material with the matrix colour and that shows both of the following:
-   a. the oximorphic features are, if soil aggregates are present, predominantly inside the aggregates; and
-   b. the oximorphic features are black, surrounded by lighter-coloured material, or have, compared against the matrix colour, the following Munsell colours, moist: a hue ≥ 2.5 units redder and a chroma ≥ 1 unit higher;
-   *or*
+
+a. the oximorphic features are, if soil aggregates are present, predominantly inside the aggregates; *and*
+b. the oximorphic features are black, surrounded by lighter-coloured material, or have, compared against the matrix colour, the following Munsell colours, moist: a hue ≥ 2.5 units redder and a chroma ≥ 1 unit higher;
+*or*
 3. a layer that comprises reductimorphic features and oximorphic features (with or without soil material with a matrix colour) and that shows all of the following:
-   a. the reductimorphic features are predominantly around biopores and, if soil aggregates are present, predominantly at the outer parts of the aggregates;
-   *and*
-   b. the oximorphic features are, if soil aggregates are present, predominantly inside the aggregates;
-   *and*
-   c. the oximorphic features are black, surrounded by lighter-coloured material, or have, compared against the reductimorphic features, one or more of the following Munsell colours, all moist:
-      i. a hue ≥ 5 units redder; or
-      ii. a chroma ≥ 4 units higher; or
-      iii. a hue ≥ 2.5 units redder and a chroma ≥ 2 units higher; or
+
+a. the reductimorphic features are predominantly around biopores and, if soil aggregates are present, predominantly at the outer parts of the aggregates; *and*
+b. the oximorphic features are, if soil aggregates are present, predominantly inside the aggregates; *and*
+c. the oximorphic features are black, surrounded by lighter-coloured material, or have, compared against the reductimorphic features, one *or* more of the following Munsell colours, all moist:
+      i. a hue ≥ 5 units redder; *or*
+      ii. a chroma ≥ 4 units higher; *or*
+      iii. a hue ≥ 2.5 units redder and a chroma ≥ 2 units higher; *or*
       iv. a hue ≥ 2.5 units redder, a value ≥ 1 unit lower and a chroma ≥ 1 unit higher;
-   *or*
-4. a layer with the colours of claric material in ≥ 95% of its exposed area, which is considered as reductimorphic feature, above an abrupt textural difference or above a layer with a bulk density of ≥ 1.5 kg dm⁻³;
-   *or*
-5. a combination of two layers: a layer with claric material in ≥ 95% of its exposed area, which is considered as reductimorphic feature, and a directly underlying layer fulfilling the diagnostic criteria 1, 2 or 3.
+*or*
+4. a layer with the colours of [[Claric Material|claric material]] in ≥ 95% of its exposed area, which is considered as reductimorphic feature, above an [[Abrupt textural difference|abrupt textural difference]] or above a layer with a bulk density of ≥ 1.5 kg dm⁻³;
+*or*
+5. a combination of two layers: a layer with [[Claric Material|claric material]] in ≥ 95% of its exposed area, which is considered as reductimorphic feature, and a directly underlying layer fulfilling the diagnostic criteria 1, 2 or 3.
 
 ## Field Identification
 
@@ -43,4 +44,4 @@ If the stagnic properties are weakly expressed, the reductimorphic and oximorphi
 
 ## Relationships with some other Diagnostics
 
-Stagnic properties differ from gleyic properties. Stagnic properties are caused by stagnation of an intruding agent (mostly rainwater) that causes reducing conditions and that leads to an overlying Fe-poor layer and an underlying layer with oximorphic features inside the soil aggregates. (In some soils, only one of these layers is present.) Gleyic properties are caused by an upward moving agent (mostly groundwater) that causes reducing conditions and that leads to an underlying strongly reduced layer and an overlying layer with oximorphic features on or adjacent to the soil aggregate surfaces. (In some soils, only one of these layers is present.)
+Stagnic properties differ from [[Gleyic Properties|gleyic properties]]. Stagnic properties are caused by stagnation of an intruding agent (mostly rainwater) that causes reducing conditions and that leads to an overlying Fe-poor layer and an underlying layer with oximorphic features inside the soil aggregates. (In some soils, only one of these layers is present.) Gleyic properties are caused by an upward moving agent (mostly groundwater) that causes reducing conditions and that leads to an underlying strongly reduced layer and an overlying layer with oximorphic features on or adjacent to the soil aggregate surfaces. (In some soils, only one of these layers is present.)

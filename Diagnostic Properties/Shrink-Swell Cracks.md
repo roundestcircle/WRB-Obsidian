@@ -6,11 +6,11 @@ Shrink-swell cracks open and close due to shrinking and swelling of clay mineral
 
 ## Diagnostic Criteria
 
-Shrink-swell cracks occur in mineral material and:
+Shrink-swell cracks occur in [[Mineral Material|mineral material]] *and*:
 
-1. open and close with changing water content of the soil; and
+1. open and close with changing water content of the soil; *and*
 2. are ≥ 0.5 cm wide, when the soil is dry, with or without infillings of material from the surface.
 
 ## Relationships with some other Diagnostics
 
-Shrink-swell cracks are referred to in the diagnostic criteria of the protovertic horizon, the vertic horizon and in the Key to the Reference Soil Groups (where reference is made to their depth requirements).
+Shrink-swell cracks are referred to in the diagnostic criteria of the [[Protovertic Horizon|protovertic horizon]], the [[Vertic Horizon|vertic horizon]] and in the Key to the Reference Soil Groups (where reference is made to their depth requirements).

@@ -7,7 +7,7 @@ Other soils.
 Next Soil to check if not REGOSOLS: no more Soils to Check.
 
 Primary Qualifiers::
-- [[Tidal]]
+- [[Tidalic]]
 - [[Leptic]]
 - [[Solimovic]]
 - [[Aeolic]]
@@ -15,7 +15,7 @@ Primary Qualifiers::
 - [[Brunic]]
 - [[Gleyic]]
 - [[Stagnic]]
-- [[Skeletal]]
+- [[Skeletic]]
 - [[Vermic]]
 - [[Yermic]]
 - [[Takyric]]

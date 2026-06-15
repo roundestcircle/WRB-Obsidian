@@ -8,12 +8,12 @@ Other soils having:
    - ≥ 30 cm, within 100 cm of the soil surface and starting ≤ 25 cm from the soil surface; *or*
    - ≥ 60% of the entire thickness of the soil, if a limiting layer starts > 25 and ≤ 50 cm from the soil surface;
    *and*
-1. no [[Argic Horizon]], [[Ferralic Horizon]], [[Petroplinthic Horizon]], [[Pisoplinthic Horizon]], [[[Plinthic Horizon]]] or [[Spodic Horizon]] starting ≤ 100 cm of the soil surface, unless buried deeper than 50 cm from the mineral soil surface.
+2. no [[Argic Horizon]], [[Ferralic Horizon]], [[Petroplinthic Horizon]], [[Pisoplinthic Horizon]], [[Plinthic Horizon]] or [[Spodic Horizon]] starting ≤ 100 cm of the soil surface, unless buried deeper than 50 cm from the mineral soil surface.
 
-Next Soil to check if not ANDOSOLS: [[Podzols]]
+Next Soil to check if not ANDOSOLS: Podzols
 
 Primary Qualifiers::
-- [[Alaundic]]
+- [[Aluandic]]
 - [[Silandic]]
 - [[Vitric]]
 - [[Leptic]]
@@ -22,7 +22,7 @@ Primary Qualifiers::
 - [[Gleyic]]
 - [[Hydric]]
 - [[Histic]]
-- [[Chermic]]
+- [[Chernic]]
 - [[Mollic]]
 - [[Umbric]]
 - [[Petroduric]]
@@ -47,7 +47,7 @@ Supplementary Qualifiers::
 - [[Drainic]]
 - [[Eutrosilic]]
 - [[Acroxic]]
-- [[Fluviic]]
+- [[Fluvic]]
 - [[Folic]]
 - [[Fragic]]
 - [[Gelic]]
@@ -61,7 +61,7 @@ Supplementary Qualifiers::
 - [[Placic]]
 - [[Posic]]
 - [[Pyric]]
-- [[Reductive]]
+- [[Reductaquic]]
 - [[Sideralic]]
 - [[Sodic]]
 - [[Solimovic]]

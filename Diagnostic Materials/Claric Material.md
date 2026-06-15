@@ -6,22 +6,22 @@ Claric material (from Latin *clarus*, bright) is light-coloured fine earth.
 
 ## Diagnostic Criteria
 
-Claric material is mineral material and:
+Claric material is [[Mineral Material|mineral material]] *and*:
 
-1. has in ≥ 90% of its exposed area a Munsell colour, dry, with one or both of the following:
-   a. a value of ≥ 7 and a chroma of ≤ 3; or
+1. has in ≥ 90% of its exposed area a Munsell colour, dry, with one *or* both of the following:
+   a. a value of ≥ 7 and a chroma of ≤ 3; *or*
    b. a value of ≥ 5 and a chroma of ≤ 2;
    *and*
-2. has in ≥ 90% of its exposed area a Munsell colour, moist, with one or more of the following:
+2. has in ≥ 90% of its exposed area a Munsell colour, moist, with one *or* more of the following:
    a. a value of ≥ 6 and a chroma of ≤ 4;
-   or
+   *or*
    b. a value of ≥ 5 and a chroma of ≤ 3;
-   or
+   *or*
    c. a value of ≥ 4 and a chroma of ≤ 2;
-   or
+   *or*
    d. all of the following:
-      i. a hue of 5YR or redder; and
-      ii. a value of ≥ 4 and a chroma of ≤ 3; and
+      i. a hue of 5YR or redder; *and*
+      ii. a value of ≥ 4 and a chroma of ≤ 3; *and*
       iii. ≥ 25% of the sand and coarse silt grains are uncoated.
 
 ## Field Identification
@@ -34,4 +34,4 @@ The presence of coatings around sand and coarse silt grains can be determined us
 
 ## Relationships with some other Diagnostics
 
-The claric material is used as a diagnostic criterion in the definition of the spodic horizon, the retic and the stagnic properties. A layer with claric material that has lost oxides and/or organic matter due to clay migration, podzolization or due to redox processes caused by stagnant water, forms an albic horizon.
+The claric material is used as a diagnostic criterion in the definition of the [[Spodic Horizon|spodic horizon]], the [[Retic Properties|retic]] and the [[Stagnic Properties|stagnic properties]]. A layer with claric material that has lost oxides and/or organic matter due to clay migration, podzolization or due to redox processes caused by stagnant water, forms an [[Albic Horizon|albic horizon]].

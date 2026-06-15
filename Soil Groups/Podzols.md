@@ -4,7 +4,7 @@
 
 Other soils having a [[Spodic Horizon]] starting ≤ 200 cm from the mineral soil surface.
 
-Next Soil to check if not PODZOLS: [[Plinthosols]]
+Next Soil to check if not PODZOLS: Plinthosols
 
 Primary Qualifiers::
 - [[Ortseteinic]]

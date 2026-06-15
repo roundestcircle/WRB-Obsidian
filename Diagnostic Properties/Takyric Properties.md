@@ -6,7 +6,7 @@ Takyric properties (from Turkic languages *takyr*, barren land) are related to a
 
 ## Diagnostic Criteria
 
-Takyric properties refer to a surface crust consisting of mineral material that has all of the following:
+Takyric properties refer to a surface crust consisting of [[Mineral Material|mineral material]] that has all of the following:
 
 1. a texture class of clay loam, silty clay loam, silty clay or clay;
    *and*
@@ -17,8 +17,9 @@ Takyric properties refer to a surface crust consisting of mineral material that 
 4. a rupture-resistance class of at least hard when dry and a plasticity of at least moderately plastic when moist;
    *and*
 5. an electrical conductivity (ECe) of the saturation extract of
-   a. < 4 dS m⁻¹; or
-   b. at least 1 dS m⁻¹ less than that of the layer directly below the surface crust.
+
+a. < 4 dS m⁻¹; *or*
+b. at least 1 dS m⁻¹ less than that of the layer directly below the surface crust.
 
 ## Field Identification
 
@@ -26,4 +27,4 @@ Takyric properties occur in depressions in arid regions, where surface water, ri
 
 ## Relationships with some other Diagnostics
 
-Takyric properties occur in association with many diagnostic horizons, the most important ones being the natric, salic, gypsic, calcic and cambic horizons. The low EC and low soluble-salt content of takyric properties set them apart from the salic horizon.
+Takyric properties occur in association with many diagnostic horizons, the most important ones being the [[Natric Horizon|natric]], [[Salic Horizon|salic]], [[Gypsic Horizon|gypsic]], [[Calcic Horizon|calcic]] and [[Cambic Horizon|cambic]] horizons. The low EC and low soluble-salt content of takyric properties set them apart from the salic horizon.
