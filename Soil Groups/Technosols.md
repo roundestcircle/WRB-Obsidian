@@ -14,7 +14,7 @@ b. not having a layer containing artefacts that qualifies as an [[Argic Horizon]
 c. not having a limiting layer, unless consisting of artefacts, starting ≤ 10 cm from the soil surface; *or*
 2. having a continuous, very slowly permeable to impermeable, constructed geomembrane of any thickness or [[Technic Hard Material]] starting ≤ 100 cm from the soil surface.
 
-Next Soil to check if not TECHNOSOLS: Cryosols
+Next Soil to check if not TECHNOSOLS: [[Cryosols]]
 
 Primary Qualifiers::
 - [[Ekranic]]

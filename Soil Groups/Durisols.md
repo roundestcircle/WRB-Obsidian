@@ -4,7 +4,7 @@
 
 Other soils having a [[Petroduric Horizon]] or [[Duric Horizon]] starting ≤ 100 cm from the mineral soil surface.
 
-Next Soil to check if not DURISOLS: Gypsisols
+Next Soil to check if not DURISOLS: [[Gypsisols]]
 
 Primary Qualifiers::
 - [[Petric]]

@@ -10,7 +10,7 @@ a. [[Continuous Rock]] starting ≤ 25 cm from the soil surface; *or*
 b. < 20% (by volume, related to the whole soil) fine earth plus dead plant residues of any size², averaged over a depth of 75 cm from the soil surface or to continuous rock, whichever is shallower;  *and*
 2. no [[Duric Horizon]], [[Petrocalcic Horizon]], petrofulvic, [[Petrogypsic Horizon]], [[Pisoplinthic Horizon]] or [[Spodic Horizon]].
 
-Next Soil to check if not LEPTOSOLS: Solonetz
+Next Soil to check if not LEPTOSOLS: [[Solonetz]]
 
 Primary Qualifiers::
 - [[Nudithitic]]

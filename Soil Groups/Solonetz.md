@@ -4,7 +4,7 @@
 
 Other soils having a [[Natric Horizon]] starting ≤ 100 cm from the mineral soil surface.
 
-Next Soil to check if not SOLONETZ: Vertisols
+Next Soil to check if not SOLONETZ: [[Vertisols]]
 
 Primary Qualifiers::
 - [[Abruptic]]

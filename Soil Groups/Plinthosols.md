@@ -4,7 +4,7 @@
 
 Other soils having a [[Plinthic Horizon]], [[Pisoplinthic Horizon]] or [[Petroplinthic Horizon]] starting ≤ 100 cm from the mineral soil surface.
 
-Next Soil to check if not PLINTHOSOLS: Planosols
+Next Soil to check if not PLINTHOSOLS: [[Planosols]]
 
 Primary Qualifiers::
 - [[Petric]]

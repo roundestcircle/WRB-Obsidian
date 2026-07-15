@@ -16,7 +16,7 @@ b. directly underneath the mollic/umbric horizon, a layer, ≥ 10 cm thick, that
       ii. reducing conditions in some parts of every sublayer; *or*
 3. permanent saturation by water starting ≤ 40 cm from the mineral soil surface.
 
-Next Soil to check if not GLEYSOLS: Andosols
+Next Soil to check if not GLEYSOLS: [[Andosols]]
 
 Primary Qualifiers::
 - [[Thionic]]

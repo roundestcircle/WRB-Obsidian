@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INSTRUCTIONS.md",
-                "mode": "source",
+                "file": "Soil Groups/Regosols.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "INSTRUCTIONS"
+              "title": "Regosols"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,15 +198,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7787825f4fbaa7db",
+  "active": "1a91a187fdcbe942",
   "lastOpenFiles": [
-    "Diagnostic Properties/GENERAL.md",
-    "Diagnostic Horizons/GENERAL.md",
-    "Diagnostic Materials/GENERAL.md",
-    "Soil Groups/GENERAL.md",
-    "Qualifiers/GENERAL.md",
-    "KEY.md",
-    "Diagnostic Horizons/Albic Horizon.md",
+    "Soil Groups/Regosols.md",
+    "Soil Groups/Arenosols.md",
+    "Soil Groups/Fluvisols.md",
+    "Soil Groups/Cambisols.md",
+    "Soil Groups/Luvisols.md",
+    "Soil Groups/Alisols.md",
+    "Soil Groups/Lixisols.md",
+    "Soil Groups/Acrisols.md",
+    "Soil Groups/Retisols.md",
+    "Soil Groups/Calcisols.md",
+    "Soil Groups/Gypsisols.md",
+    "Soil Groups/Durisols.md",
+    "Soil Groups/Umbrisols.md",
+    "Soil Groups/Phaeozems.md",
+    "Soil Groups/Kastanozems.md",
+    "Soil Groups/Chernozems.md",
+    "Soil Groups/Ferralsols.md",
+    "Soil Groups/Nitisols.md",
+    "Soil Groups/Stagnosols.md",
+    "Soil Groups/Planosols.md",
+    "Soil Groups/Plinthosols.md",
+    "Soil Groups/Podzols.md",
+    "Soil Groups/Andosols.md",
+    "Soil Groups/Gleysols.md",
+    "Soil Groups/Solonchaks.md",
+    "Soil Groups/Vertisols.md",
     "TODO.tmp.40852.29e88eec5d6f",
     "TODO.tmp.40852.e9bb494a10e1",
     "KEY.md.tmp.40852.ba72fe0ad698",
@@ -217,25 +235,6 @@
     "Qualifiers/Uterquic.md.tmp.40852.a267b466c855",
     "Qualifiers/Transportic.md.tmp.40852.7c1eed3fc0ea",
     "TODO.tmp.40852.cb8ab1a6b13d",
-    "Qualifiers/Tonguic.md.tmp.40852.c6c08a98e33c",
-    "INSTRUCTIONS.md",
-    "Soil Groups/Vertisols.md",
-    "Soil Groups/Umbrisols.md",
-    "Soil Groups/Technosols.md",
-    "Soil Groups/Stagnosols.md",
-    "Soil Groups/Solonetz.md",
-    "Soil Groups/Solonchaks.md",
-    "Soil Groups/Retisols.md",
-    "Soil Groups/Regosols.md",
-    "Soil Groups/Podzols.md",
-    "Soil Groups/Plinthosols.md",
-    "Soil Groups/Planosols.md",
-    "Soil Groups/Phaeozems.md",
-    "Soil Groups/Nitisols.md",
-    "Soil Groups/Luvisols.md",
-    "Soil Groups/Lixisols.md",
-    "Soil Groups/Leptosols.md",
-    "Soil Groups/Kastanozems.md",
-    "Soil Groups/Histosols.md"
+    "Qualifiers/Tonguic.md.tmp.40852.c6c08a98e33c"
   ]
 }

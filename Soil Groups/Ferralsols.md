@@ -10,9 +10,9 @@ Other soils having:
 
 a. < 10% water-dispersible clay; *or*
 b. a ΔpH (pH<sub>KCl</sub> - pH<sub>water</sub>) ≥ 0 (both in 1:1 solution); *or*
-c. ≥ 1.4% *[[Soil Organic Carbon|soil organic carbon]]*.
+c. ≥ 1.4% [[Soil Organic Carbon|soil organic carbon]].
 
-Next Soil to check if not FERRALSOLS: Chernozems
+Next Soil to check if not FERRALSOLS: [[Chernozems]]
 
 Primary Qualifiers::
 - [[Ferritic]]

@@ -7,7 +7,7 @@ Other soils having an [[Abrupt textural difference|abrupt textural difference]] 
 1. [[Stagnic Properties]], in which the area of reductomorphic features plus the area of oximorphic features is ≥ 50% (weighted average, related to the fine earth plus oximorphic features of any size and any cementation class) of the total area; *and*
 2. [[Reducing Conditions]] for some time during the year in some parts of the soil volume that has the reductimorphic features.
 
-Next Soil to check if not PLANOSOLS: Stagnosols
+Next Soil to check if not PLANOSOLS: [[Stagnosols]]
 
 Primary Qualifiers::
 - [[Reductaquic]]

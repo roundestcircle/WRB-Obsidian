@@ -4,7 +4,7 @@
 
 Other soils having an [[Argic Horizon]] starting ≤ 100 cm from the mineral soil surface and having [[Retic Properties]] at its upper boundary.
 
-Next Soil to check if not RETISOLS: Acrisols
+Next Soil to check if not RETISOLS: [[Acrisols]]
 
 Primary Qualifiers::
 - [[Abruptic]]

@@ -7,7 +7,7 @@ Other soils having:
 1. a [[Calcic Horizon]] or [[Petrocalcic Horizon]] starting ≤ 100 cm from the mineral soil surface; *and*
 2. no [[Argic Horizon]] starting above or at the upper limit of the calcic horizon or petrocalcic horizon unless the argic horizon contains secondary carbonates, throughout.
 
-Next Soil to check if not CALCISOLS: Retisols
+Next Soil to check if not CALCISOLS: [[Retisols]]
 
 Primary Qualifiers::
 - [[Petric]]

@@ -17,7 +17,7 @@ b. having its lower limit ≥ 25 cm from the mineral soil surface;
    *or*
 5. one or more layers with [[Andic Properties]] or [[Vitric Properties]] with a combined thickness of ≥ 15 cm within 100 cm of the soil surface.
 
-Next Soil to check if not CAMBISOLS: Fluvisols
+Next Soil to check if not CAMBISOLS: [[Fluvisols]]
 
 Primary Qualifiers::
 - [[Fragic]]

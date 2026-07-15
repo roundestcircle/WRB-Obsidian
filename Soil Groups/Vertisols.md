@@ -15,7 +15,7 @@ b. at the base of a plough layer; *or*
 c. directly below a layer with strong granular structure or strong angular or subangular blocky structure with an aggregate size of ≤ 1 cm (self-mulching surface); *or*
 d. directly below a surface crust;  *and* extend to the vertic horizon.
 
-Next Soil to check if not VERTISOLS: Solonchaks
+Next Soil to check if not VERTISOLS: [[Solonchaks]]
 
 Primary Qualifiers::
 - [[Salic]]

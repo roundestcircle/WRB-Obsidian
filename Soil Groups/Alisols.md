@@ -11,7 +11,7 @@ Other soils having:
 a. the depth range between 50 and 100 cm of the mineral soil surface; *or*
 b. the lower half of the mineral soil above a limiting layer starting ≤ 100 cm from the mineral soil surface whichever is shallower.
 
-Next Soil to check if not ALISOLS: Luvisols
+Next Soil to check if not ALISOLS: [[Luvisols]]
 
 Primary Qualifiers::
 - [[Abruptic]]

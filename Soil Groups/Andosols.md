@@ -10,7 +10,7 @@ Other soils having:
    *and*
 2. no [[Argic Horizon]], [[Ferralic Horizon]], [[Petroplinthic Horizon]], [[Pisoplinthic Horizon]], [[Plinthic Horizon]] or [[Spodic Horizon]] starting ≤ 100 cm of the soil surface, unless buried deeper than 50 cm from the mineral soil surface.
 
-Next Soil to check if not ANDOSOLS: Podzols
+Next Soil to check if not ANDOSOLS: [[Podzols]]
 
 Primary Qualifiers::
 - [[Aluandic]]
